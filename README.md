@@ -12,9 +12,16 @@ This Android app demonstrates how to implement a file download manager using the
 
 ## Screenshot
 
-<img src="" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
-<img src="" alt="Second Screenshot" style="width: 200px; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/c07c52b1-4cc2-4f3f-aa37-c6c37df2d824" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/0f7bc44f-f6a8-4836-9c3d-2e4de62fb4c2" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/55daa80a-86ba-41d4-87e4-a3635f83b005" alt="Third Screenshot" style="width: 200px; height: auto;">
+</div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/0553b452-fade-4ef8-b9f7-01b1a919d75b" alt="Fourth Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/7070ee98-4b95-4165-8ded-02add2151c52" alt="Fifth Screenshot" style="width: 200px; height: auto;">
+</div>
 
 ## Code Overview
 
