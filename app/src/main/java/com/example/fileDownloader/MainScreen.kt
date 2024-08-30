@@ -147,7 +147,10 @@ fun MainScreen(ketch: Ketch) {
         }
         Spacer(modifier = Modifier.height(10.dp))
 
-        Row {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.Center
+        ) {
             Button(
                 onClick = {
                     ketch.clearDb(tag = FILE_TAG)
